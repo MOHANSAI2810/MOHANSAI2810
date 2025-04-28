@@ -26,7 +26,7 @@
 
 ## 📌 Featured Projects
 
-🔹 [chatbot-with-NLP](https://github.com/MOHANSAI2810/chatbot-with-NLP) - NLP-powered chatbot  
+🔹 [Mohan's-Mini-Chatbot](https://github.com/MOHANSAI2810/Mohan-Mini-ChatBot.git) - Mini Chatbot(ChatGPT Clone)  
 🔹 [email-spam-classification](https://github.com/MOHANSAI2810/email-spam-classification) - Machine learning model for spam detection  
 🔹 [traffic-management-system](https://github.com/MOHANSAI2810/traffic-management-system) - AI-driven traffic control system  
 
