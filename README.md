@@ -48,7 +48,6 @@ It showcases my journey, skills, academic growth, and all my featured projects i
 🔹 [Mohan's-Mini-Chatbot](https://github.com/MOHANSAI2810/Mohan-Mini-ChatBot.git) — Mini Chatbot (ChatGPT Clone)  
 🔹 [Email Spam Classification](https://github.com/MOHANSAI2810/email-spam-classification) — ML model to detect email spam  
 🔹 [Traffic Management System](https://github.com/MOHANSAI2810/traffic-management-system) — AI-driven traffic control  
-🔹 [Clinical Study Completion Predictor](https://github.com/MOHANSAI2810/clinical-study-completion-predictor) — AI project with explainability  
 🔹 [My Portfolio Code](https://github.com/MOHANSAI2810/my-portfolio) — React-based personal portfolio project  
 
 ---
@@ -56,8 +55,8 @@ It showcases my journey, skills, academic growth, and all my featured projects i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHANSAI2810&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANSAI2810&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHANSAI2810&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANSAI2810&layout=compact&theme=tokyonight&border_radius=12" />
 </p>
 
 ---
@@ -66,16 +65,16 @@ It showcases my journey, skills, academic growth, and all my featured projects i
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohansai28/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232A" />
   </a>
   <a href="https://github.com/MOHANSAI2810">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=20232A" />
   </a>
   <a href="mailto:pushadapumohansai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232A" />
   </a>
 </p>
 
 ---
 
-⭐️ *Feel free to check out my repositories and star the ones you like!*
+⭐️ *Feel free to explore my repositories and star the ones you find useful or interesting!*
