@@ -12,7 +12,7 @@
 ## 🎨 Welcome to My GitHub
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Passionate+about+AI+and+Web+Development;Always+learning+new+things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Passionate+in+AI+and+Web+Development;Always+learning+new+things!" />
 </p>
 
 ---
