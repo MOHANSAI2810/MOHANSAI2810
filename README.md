@@ -9,8 +9,18 @@
 
 ---
 
-## 🎨 Welcome to My GitHub
+## 🎨 Welcome to My GitHub # 👋 Hi, I'm Mohan Sai!
 
+🎓 Final-year B.Tech student passionate about building real-world solutions with code  
+🚀 Exploring AI, Web Development & Open Source  
+🧑‍💻 Worked as an intern at **Infosys Springboard**  
+📚 Learning: Advanced Machine Learning & Full-Stack Development  
+💬 Ask me about: Python, Java, AI, Web Development  
+📫 Reach me at: [pushadapumohansai@gmail.com](mailto:pushadapumohansai@gmail.com)
+
+---
+
+## 🎨 Welcome to My GitHub 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Passionate+in+AI+and+Web+Development;Always+learning+new+things!" />
 </p>
@@ -52,11 +62,18 @@ It showcases my journey, skills, academic growth, and all my featured projects i
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
+
+![Profile views](https://komarev.com/ghpvc/?username=MOHANSAI2810&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOHANSAI2810&show_icons=true&theme=tokyonight&border_radius=12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANSAI2810&layout=compact&theme=tokyonight&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHANSAI2810&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
