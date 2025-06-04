@@ -2,7 +2,7 @@
 
 🎓 Final-year B.Tech student passionate about building real-world solutions with code  
 🚀 Exploring AI, Web Development & Open Source  
-🧑‍💻 Currently working as an intern at **Infosys Springboard**  
+🧑‍💻 Worked as an intern at **Infosys Springboard**  
 📚 Learning: Advanced Machine Learning & Full-Stack Development  
 💬 Ask me about: Python, Java, AI, Web Development  
 📫 Reach me at: [pushadapumohansai@gmail.com](mailto:pushadapumohansai@gmail.com)
