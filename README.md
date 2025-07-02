@@ -55,6 +55,7 @@ It showcases my journey, skills, academic growth, and all my featured projects i
 
 ## 📌 Featured Projects
 
+🔹 [Personal Portfolio](https://github.com/MOHANSAI2810/portfolio-final) — Portfolio
 🔹 [Mohan's-Mini-Chatbot](https://github.com/MOHANSAI2810/Mohan-Mini-ChatBot.git) — Mini Chatbot (ChatGPT Clone)  
 🔹 [Email Spam Classification](https://github.com/MOHANSAI2810/email-spam-classification) — ML model to detect email spam  
 🔹 [Traffic Management System](https://github.com/MOHANSAI2810/traffic-management-system) — AI-driven traffic control  
