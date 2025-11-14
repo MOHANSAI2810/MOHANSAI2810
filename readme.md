@@ -4,7 +4,7 @@
 🚀 Exploring AI, Web Development & Open Source  
 🧑‍💻 Worked as an intern at **Infosys Springboard**  
 📚 Learning: Advanced Machine Learning & Full-Stack Development  
-💬 Ask me about: Python, Java, AI, Web Development  
+💬 Ask me about: Python, AI, Web Development  
 📫 Reach me at: [pushadapumohansai@gmail.com](mailto:pushadapumohansai@gmail.com)
 
 ---
